@@ -1,6 +1,6 @@
 # Interpolation Super Power
 
-## Objectives 
+## Objectives
 
 1. Interpolate arbitrary code into a string
 2. Interpolate elements of an array into a single string
@@ -12,7 +12,7 @@ We've talked about string interpolation, but let's review quickly. String interp
 ```ruby
 name = "Bob"
 
-puts "Hello, #{name}"
+puts "Hello, #{name}" 
 
 # => "Hello, Bob"
 ```
