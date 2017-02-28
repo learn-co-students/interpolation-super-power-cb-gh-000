@@ -1,6 +1,6 @@
 # Interpolation Super Power
 
-## Objectives
+## Objectives 
 
 1. Interpolate arbitrary code into a string
 2. Interpolate elements of an array into a single string
