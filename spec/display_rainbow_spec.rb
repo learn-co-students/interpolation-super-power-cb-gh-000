@@ -1,4 +1,4 @@
-describe '#display_rainbow' do
+def display_rainbow(name)
   it 'accepts one argument' do
     colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
 
