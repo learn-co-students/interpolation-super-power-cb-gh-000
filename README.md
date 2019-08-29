@@ -12,7 +12,7 @@ We've talked about string interpolation, but let's review quickly. String interp
 ```ruby
 name = "Bob"
 
-puts "Hello, #{name}"
+puts "Hello, #{name}" 
 
 # => "Hello, Bob"
 ```
